@@ -1,0 +1,12 @@
+RightScale Chef Training
+- Chef Pilot Materials are here
+http://rschef.s3.amazonaws.com/Archive.zip
+
+- Repos
+The following repos are used in this course
+https://github.com/rsed/cheftraining-001.1
+https://github.com/rsed/cheftraining-001.2
+https://github.com/rsed/cheftraining-001.3
+https://github.com/rsed/cheftraining-001.4
+
+Note: The labs in this course build on the previous one.  Each repo can be used as a starting point for the corresponding lab, and allows you to continue the labs if you were unable to complete the previous one.
