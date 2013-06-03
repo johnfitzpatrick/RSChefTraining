@@ -9,4 +9,6 @@ https://github.com/rsed/cheftraining-001.2
 https://github.com/rsed/cheftraining-001.3
 https://github.com/rsed/cheftraining-001.4
 
-Note: The labs in this course build on the previous one.  Each repo can be used as a starting point for the corresponding lab, and allows you to continue the labs if you were unable to complete the previous one.
+Note: The labs in this course build on the previous one.  
+Each repo can be used as a starting point for the corresponding lab.
+Allows you to continue the labs if you were unable to complete the previous one.
