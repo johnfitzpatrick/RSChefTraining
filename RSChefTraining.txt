@@ -1,5 +1,5 @@
 RightScale Chef Training
-
+<Link removed - please contact john dot fitzpatrick at rightscale dot com>
 
 - Repos
 The following repos are used in this course
