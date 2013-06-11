@@ -1,6 +1,5 @@
 RightScale Chef Training
-- Chef Pilot Materials are here
-http://rschef.s3.amazonaws.com/Archive.zip
+
 
 - Repos
 The following repos are used in this course
